@@ -1,1 +1,2 @@
-[alt text](arm_circuit_board.png)
+# ADC-Data-Validation-Interprocessor-Comm-PID-Controller
+![alt text](images/arm_circuit_board.png)
