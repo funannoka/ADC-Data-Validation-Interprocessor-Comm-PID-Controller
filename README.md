@@ -1,2 +1,3 @@
 # ADC-Data-Validation-Interprocessor-Comm-PID-Controller
-![alt text](images/arm_circuit_board.png)
+![alt text](images/friendlyarm_circuit_board.tiff)
+![alt text](images/setup.tiff)
